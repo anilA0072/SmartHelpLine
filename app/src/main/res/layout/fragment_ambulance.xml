@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ambulance"
+    android:background="@color/white"
+    android:layout_marginTop="?attr/actionBarSize"
+    tools:context="com.example.anil.smarthelpline.Navigation_Elements.ambulance_Fragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Amblulance"
+        android:gravity="center"
+        android:textSize="36sp"/>
+
+</FrameLayout>

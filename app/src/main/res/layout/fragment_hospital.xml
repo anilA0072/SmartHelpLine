@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:id="@+id/hospital"
+    android:layout_marginTop="?attr/actionBarSize"
+    tools:context="com.example.anil.smarthelpline.Navigation_Elements.hospital_Fragment">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hospital Fragment"
+        android:gravity="center"
+        android:textSize="36sp"/>
+
+</RelativeLayout>

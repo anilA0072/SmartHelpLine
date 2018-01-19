@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/firstAid"
+    tools:context="com.example.anil.smarthelpline.first_aid_Fragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="First Aid Page"
+        android:gravity="center"
+        android:textSize="36sp"/>
+
+</FrameLayout>
